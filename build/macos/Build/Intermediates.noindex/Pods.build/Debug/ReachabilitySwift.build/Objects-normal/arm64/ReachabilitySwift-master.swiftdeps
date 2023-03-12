@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "b6351f73312da8b909693dcd7d6a08f70affc3751719c8751188435a1ca64401"
+build_start_time: [1678623810, 244907855]
+build_end_time: [1678623817, 799850940]
+inputs:
+  "/Users/rnyeong._.jin/Desktop/KUGODS/first0302/macos/Pods/ReachabilitySwift/Sources/Reachability.swift": [1678623803, 706333637]
